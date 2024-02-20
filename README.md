@@ -33,3 +33,18 @@ all these while creating the sushi website with,
 * About Us Section
 * Popular Food, Trending Sushi, and Drinks Sections
 * Newsletter Signup and Footer
+
+
+**Installation**
+
+Install the project dependencies using npm:
+
+```bash
+npm install
+```
+
+**Running the Project**
+
+```bash
+npm run dev
+```
